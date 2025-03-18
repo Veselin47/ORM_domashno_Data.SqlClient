@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "domashno_16_03": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
